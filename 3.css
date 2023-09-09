@@ -1,0 +1,9 @@
+.pai {width: 1000px; height: 1000px;}
+.filha {width: 50%; height: 50%;}
+.cor1 {background-color: #7dff5d;}
+.cor2 {background-color: #8097ff;}
+.paragrafo {color: rgb(0, 0, 0); background-color: rgb(195, 252, 39); font-size: 100px; font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-weight: 100;}
+.pai2 {width: 50%; height: 50vw;}
+.cor3 {background-color: rgb(255, 170, 13);}
+.filha2 {width: 75vw; height: 50%; background-color: rgb(255, 50, 118);}
+.cor4 {background-color: rgb(70, 20, 20);}
